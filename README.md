@@ -8,7 +8,7 @@ Universidad de Santander (UDES) — Ingeniería de Sistemas 2026
 Aplicación web desarrollada con Spring Boot y Spring Security 6 que implementa un sistema completo de autenticación y autorización. Incluye registro de usuarios con contraseñas encriptadas mediante BCrypt, inicio de sesión personalizado, y control de acceso basado en roles (ADMIN y USER). Los usuarios se almacenan en MySQL y la autenticación se realiza mediante un UserDetailsService personalizado.
 
 ## Estructura del proyecto
-``
+```
 estudiantes/
 ├── src/main/java/com/universidad/estudiantes/
 │   ├── config/
@@ -32,7 +32,7 @@ estudiantes/
 │       │   └── panel.html
 │       └── dashboard.html
 └── pom.xml
-``
+```
 ## Prerrequisitos
 
 Java JDK 17 o superior
