@@ -1,4 +1,4 @@
-package com.universidad.seguridad.model;
+package com.universidad.estudiantes.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
